@@ -1,0 +1,11 @@
+.about-container h1 {
+    text-align: center;
+    color: white;
+    font-size: 65px;
+}
+
+.about-container p {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}

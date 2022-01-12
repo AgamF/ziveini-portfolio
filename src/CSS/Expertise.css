@@ -1,0 +1,11 @@
+.expertise-container ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.expertise-container h1, li {
+    text-align: center;
+    color: white;
+}

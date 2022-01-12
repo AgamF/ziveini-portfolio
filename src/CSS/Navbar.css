@@ -1,0 +1,20 @@
+.navbar-container {
+    background: linear-gradient(to bottom, black, transparent);
+    overflow: hidden;
+}
+
+.navbar-container a {
+    color: white;
+    float: right;
+    margin: 20px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    transition: all 0.5s;
+}
+
+.navbar-container a:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
